@@ -9,28 +9,28 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout 
-##Login
+## Login
 ![Login](assetsimg/1.jpg) 
 
-##Registro de novo login
+## Registro de novo login
 ![Registro](assetsimg/2.jpg)
 
-##Home
+## Home
 ![Home](assetsimg/3.jpg)
 
-##Adionar série
+## Adionar série
 ![Adicionar](assetsimg/4.jpg)
 
-##Remover 
+## Remover 
 ![Remover](assetsimg/5.jpg)
 
-##Editar 
+## Editar 
 ![Editar](assetsimg/6.jpg)
 
-##Detalhes 
+## Detalhes 
 ![Detalhes](assetsimg/7.jpg)
 
-##Episódios 
+## Episódios 
 ![Episódios](assetsimg/8.jpg)
 
 
