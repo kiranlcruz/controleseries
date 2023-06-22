@@ -36,16 +36,15 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 # Tecnologias utilizadas
 ## Back end
-- PHP
-- 
+- PHP/Laravel
+  
 ## Front end
 - HTML / CSS / TypeScript
 
-- Banco de dados: Postgresql
+## Banco de dados: 
+- SqLite
 
 # Como executar o projeto
-
- 
 
 ```bash
 # clonar repositório
